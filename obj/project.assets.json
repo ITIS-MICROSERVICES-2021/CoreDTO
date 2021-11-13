@@ -8,27 +8,32 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/aidaho/.nuget/packages/": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aidaho/_git/itis/CoreDTO/CoreDTO.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\itis\\microservices2\\CoreDTO\\CoreDTO.csproj",
       "projectName": "CoreDTO",
-      "projectPath": "/Users/aidaho/_git/itis/CoreDTO/CoreDTO.csproj",
-      "packagesPath": "/Users/aidaho/.nuget/packages/",
-      "outputPath": "/Users/aidaho/_git/itis/CoreDTO/obj/",
+      "projectPath": "C:\\Users\\Admin\\RiderProjects\\itis\\microservices2\\CoreDTO\\CoreDTO.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\RiderProjects\\itis\\microservices2\\CoreDTO\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/aidaho/_git/NuGet.Config",
-        "/Users/aidaho/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://barsgroup.myget.org/F/obp-core/api/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://192.168.29.7:5002/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
