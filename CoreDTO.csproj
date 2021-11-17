@@ -1,6 +1,23 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+      <TargetFramework>net5.0</TargetFramework>
+      <Title>CoreDTO</Title>
+      <PackageId>CoreDTO</PackageId>
+      <Version>1.0.0</Version>
+      <Authors>ITIS-MICROSERVICES-2021</Authors>
+      <Copyright>Copyright (c) 2021 ITIS-MICROSERVICES-2021</Copyright>
+      <PackageProjectUrl>https://github.com/ITIS-MICROSERVICES-2021/CoreDTO</PackageProjectUrl>
+      <RepositoryUrl>https://github.com/ITIS-MICROSERVICES-2021/CoreDTO</RepositoryUrl>
+      <RepositoryType>git</RepositoryType>
+      <PackageTags>CoreDTO;Dto</PackageTags>
+      <PackageLicenseFile>LICENSE</PackageLicenseFile>
+      <PackageReadmeFile>README.md</PackageReadmeFile>
+      <PackageVersion>1.0.0</PackageVersion>
+  </PropertyGroup>
+
+
+  <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
